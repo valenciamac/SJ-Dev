@@ -1,9 +1,9 @@
-## SJ Management
+## TCMS Management
 
 ## Official Documentation
 
-Documentation for the entire framework can be found on the [SJM website](http://).
+Documentation for the entire framework can be found on the [TCMS website](http://).
 
 ### Dev Team
 
-**All issues and pull requests should be filed on the [SJM](http://github.com/macvalencia/SJ-Dev) repository.**
+**All issues and pull requests should be filed on the [TCMS](http://github.com/macvalencia/SJ-Dev) repository.**
