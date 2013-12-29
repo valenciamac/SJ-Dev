@@ -1,0 +1,37 @@
+.topNav
+{
+	background-color: #2f611a;
+	color: #ffffff;
+	padding-top: 30px;
+	padding-bottom: 10px;
+	padding-left: 150px;
+	font-size: 20px;
+	position: fixed;
+  	left: 0;
+ 	right: 0;
+ 	z-index: 1000;
+ 	display: block;
+}
+.logo
+{
+	position: fixed;
+	padding-left: 50px;
+	padding-top: 10px;
+	z-index: 2000;
+}
+.login_header
+{
+	font-size: 40px;
+	color: #a8a8a8;
+	padding-top: 200px;
+}
+hr
+{
+	border-bottom: #2f611a;
+	border-color: #a8a8a8;
+}
+.login-box
+{
+	width: 350px;
+	z-index: -2000;
+}
